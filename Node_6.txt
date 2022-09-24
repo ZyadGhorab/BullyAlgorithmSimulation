@@ -1,0 +1,54 @@
+[2022-09-24 02:03:08:852 | Process 6 ] Algorithm Log: Send OKAY to 4.
+[2022-09-24 02:03:08:853 | Process 6 ] Internal Log: Triggering an election from process 6.
+[2022-09-24 02:03:08:853 | Process 6 ] Algorithm Log: Timeout Triggered.
+[2022-09-24 02:03:08:854 | Process 6 ] Internal Log: No response send out result.
+[2022-09-24 02:03:08:865 | Process 6 ] Algorithm Log: Send Result 6 to 1.
+[2022-09-24 02:03:08:867 | Process 6 ] Algorithm Log: Send Result 6 to 2.
+[2022-09-24 02:03:08:869 | Process 6 ] Algorithm Log: Send Result 6 to 3.
+[2022-09-24 02:03:08:870 | Process 6 ] Algorithm Log: Send Result 6 to 4.
+[2022-09-24 02:03:08:872 | Process 6 ] Algorithm Log: Send Result 6 to 5.
+[2022-09-24 02:03:08:874 | Process 6 ] Algorithm Log: Send OKAY to 5.
+[2022-09-24 02:03:08:876 | Process 6 ] Internal Log: Triggering an election from process 6.
+[2022-09-24 02:03:08:876 | Process 6 ] Algorithm Log: Timeout Triggered.
+[2022-09-24 02:03:08:877 | Process 6 ] Internal Log: No response send out result.
+[2022-09-24 02:03:08:878 | Process 6 ] Algorithm Log: Send Result 6 to 1.
+[2022-09-24 02:03:08:879 | Process 6 ] Algorithm Log: Send Result 6 to 2.
+[2022-09-24 02:03:08:881 | Process 6 ] Algorithm Log: Send Result 6 to 3.
+[2022-09-24 02:03:08:883 | Process 6 ] Algorithm Log: Send Result 6 to 4.
+[2022-09-24 02:03:08:886 | Process 6 ] Algorithm Log: Send Result 6 to 5.
+[2022-09-24 02:13:11:564 | Process 6 ] Algorithm Log: Send OKAY to 4.
+[2022-09-24 02:13:11:565 | Process 6 ] Internal Log: Triggering an election from process 6.
+[2022-09-24 02:13:11:566 | Process 6 ] Algorithm Log: Timeout Triggered.
+[2022-09-24 02:13:11:566 | Process 6 ] Internal Log: No response send out result.
+[2022-09-24 02:13:11:577 | Process 6 ] Algorithm Log: Send Result 6 to 1.
+[2022-09-24 02:13:11:579 | Process 6 ] Algorithm Log: Send Result 6 to 2.
+[2022-09-24 02:13:11:580 | Process 6 ] Algorithm Log: Send Result 6 to 3.
+[2022-09-24 02:13:11:581 | Process 6 ] Algorithm Log: Send Result 6 to 4.
+[2022-09-24 02:13:11:583 | Process 6 ] Algorithm Log: Send Result 6 to 5.
+[2022-09-24 02:13:11:585 | Process 6 ] Algorithm Log: Send OKAY to 5.
+[2022-09-24 02:13:11:586 | Process 6 ] Internal Log: Triggering an election from process 6.
+[2022-09-24 02:13:11:586 | Process 6 ] Algorithm Log: Timeout Triggered.
+[2022-09-24 02:13:11:587 | Process 6 ] Internal Log: No response send out result.
+[2022-09-24 02:13:11:588 | Process 6 ] Algorithm Log: Send Result 6 to 1.
+[2022-09-24 02:13:11:590 | Process 6 ] Algorithm Log: Send Result 6 to 2.
+[2022-09-24 02:13:11:591 | Process 6 ] Algorithm Log: Send Result 6 to 3.
+[2022-09-24 02:13:11:593 | Process 6 ] Algorithm Log: Send Result 6 to 4.
+[2022-09-24 02:13:11:596 | Process 6 ] Algorithm Log: Send Result 6 to 5.
+[2022-09-24 02:14:32:863 | Process 6 ] Algorithm Log: Send OKAY to 4.
+[2022-09-24 02:14:32:864 | Process 6 ] Internal Log: Triggering an election from process 6.
+[2022-09-24 02:14:32:865 | Process 6 ] Algorithm Log: Timeout Triggered.
+[2022-09-24 02:14:32:865 | Process 6 ] Internal Log: No response send out result.
+[2022-09-24 02:14:32:877 | Process 6 ] Algorithm Log: Send Result 6 to 1.
+[2022-09-24 02:14:32:878 | Process 6 ] Algorithm Log: Send Result 6 to 2.
+[2022-09-24 02:14:32:879 | Process 6 ] Algorithm Log: Send Result 6 to 3.
+[2022-09-24 02:14:32:881 | Process 6 ] Algorithm Log: Send Result 6 to 4.
+[2022-09-24 02:14:32:883 | Process 6 ] Algorithm Log: Send Result 6 to 5.
+[2022-09-24 02:14:32:884 | Process 6 ] Algorithm Log: Send OKAY to 5.
+[2022-09-24 02:14:32:885 | Process 6 ] Internal Log: Triggering an election from process 6.
+[2022-09-24 02:14:32:886 | Process 6 ] Algorithm Log: Timeout Triggered.
+[2022-09-24 02:14:32:886 | Process 6 ] Internal Log: No response send out result.
+[2022-09-24 02:14:32:888 | Process 6 ] Algorithm Log: Send Result 6 to 1.
+[2022-09-24 02:14:32:890 | Process 6 ] Algorithm Log: Send Result 6 to 2.
+[2022-09-24 02:14:32:892 | Process 6 ] Algorithm Log: Send Result 6 to 3.
+[2022-09-24 02:14:32:895 | Process 6 ] Algorithm Log: Send Result 6 to 4.
+[2022-09-24 02:14:32:898 | Process 6 ] Algorithm Log: Send Result 6 to 5.
