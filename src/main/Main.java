@@ -1,5 +1,7 @@
 package main;
 
+import lombok.SneakyThrows;
+
 import javax.swing.*;
 import javax.swing.text.DefaultCaret;
 import java.io.IOException;
@@ -13,8 +15,9 @@ public class Main {
   static List<Process> processes;
 
   static int numberOfProcesses = 6;
+  private static StringBuilder logs = new StringBuilder();
 
-  public static void main(String[] args) throws IOException, InterruptedException {
+  public static void main(String[] args) throws IOException {
     processes = new ArrayList<>();
     List<String[]> processArguments =
         new ArrayList<>() {
@@ -80,6 +83,7 @@ public class Main {
 
     frame.addWindowListener(
         new java.awt.event.WindowAdapter() {
+          @SneakyThrows
           @Override
           public void windowClosing(java.awt.event.WindowEvent windowEvent) {
             for (Process process : processes) {
