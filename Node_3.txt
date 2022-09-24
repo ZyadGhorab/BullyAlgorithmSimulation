@@ -1,6 +1,2 @@
-[2022-09-24 02:03:08:903 | Process 3 ] Algorithm Log: Received Result from 6.
-[2022-09-24 02:03:08:904 | Process 3 ] Algorithm Log: Received Result from 6.
-[2022-09-24 02:13:11:614 | Process 3 ] Algorithm Log: Received Result from 6.
-[2022-09-24 02:13:11:615 | Process 3 ] Algorithm Log: Received Result from 6.
-[2022-09-24 02:14:32:914 | Process 3 ] Algorithm Log: Received Result from 6.
-[2022-09-24 02:14:32:915 | Process 3 ] Algorithm Log: Received Result from 6.
+[2022-09-24 15:54:10:047 | Process 3 ] Algorithm Log: Received Coordinator message from 6.
+[2022-09-24 15:54:10:346 | Process 3 ] Algorithm Log: Received Coordinator message from 6.
