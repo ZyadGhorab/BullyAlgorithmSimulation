@@ -61,45 +61,7 @@ public class Main {
       processes.add(process);
     }
 
-
-
     InitializeGUI();
-
-    //    /*
-    //     * Changes the text of the button depending on which process is selected.
-    //     * */
-    //    mainGUI
-    //        .getComboBox1()
-    //        .addActionListener(
-    //            e -> {
-    //              if (processes[mainGUI.getComboBox1().getSelectedIndex()].getStatus()
-    //                  == Status.ALIVE) {
-    //                mainGUI.getChangeStatusButton().setText("Stop Process");
-    //              } else {
-    //                mainGUI.getChangeStatusButton().setText("Start Process");
-    //              }
-    //            });
-    //
-    //    /** Starts or stops the selected process when the button is clicked */
-    //    mainGUI
-    //        .getChangeStatusButton()
-    //        .addActionListener(
-    //            e -> {
-    //              if (processes[mainGUI.getComboBox1().getSelectedIndex()].getStatus()
-    //                  == Status.ALIVE) {
-    //                crashProcess(mainGUI.getComboBox1().getSelectedIndex());
-    //              } else {
-    //                startProcess(mainGUI.getComboBox1().getSelectedIndex());
-    //              }
-    //            });
-
-    //    /** Click listener of the start election button */
-    //    mainGUI
-    //        .getStartElectionButton()
-    //        .addActionListener(
-    //            e -> {
-    //              startElection(random); /* Starts election with a random ID*/
-    //            });
   }
 
   private static void InitializeGUI() {
@@ -115,7 +77,6 @@ public class Main {
     frame.setVisible(true);
 
     ((DefaultCaret) mainGUI.getLogs().getCaret()).setUpdatePolicy(DefaultCaret.ALWAYS_UPDATE);
-
 
     frame.addWindowListener(
         new java.awt.event.WindowAdapter() {

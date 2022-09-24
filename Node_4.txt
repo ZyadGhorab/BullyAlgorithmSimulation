@@ -1,7 +1,7 @@
-[2022-09-24 15:54:09:939 | Process 4 ] Internal Log: Triggering an election from process 4.
-[2022-09-24 15:54:09:958 | Process 4 ] Algorithm Log: Send Elect from 4 to 5.
-[2022-09-24 15:54:09:961 | Process 4 ] Internal Log: Received OKAY from 5.
-[2022-09-24 15:54:09:963 | Process 4 ] Algorithm Log: Send Elect from 4 to 6.
-[2022-09-24 15:54:09:964 | Process 4 ] Internal Log: Received OKAY from 6.
-[2022-09-24 15:54:10:016 | Process 4 ] Algorithm Log: Received Coordinator message from 6.
-[2022-09-24 15:54:10:348 | Process 4 ] Algorithm Log: Received Coordinator message from 6.
+[2022-09-24 16:23:13:713 | Process 4 ] Internal Log: Triggering an election from process 4.
+[2022-09-24 16:23:13:732 | Process 4 ] Algorithm Log: Send Elect from 4 to 5.
+[2022-09-24 16:23:13:734 | Process 4 ] Internal Log: Received OKAY from 5.
+[2022-09-24 16:23:13:736 | Process 4 ] Algorithm Log: Send Elect from 4 to 6.
+[2022-09-24 16:23:13:737 | Process 4 ] Internal Log: Received OKAY from 6.
+[2022-09-24 16:23:13:784 | Process 4 ] Algorithm Log: Received Coordinator message from 6.
+[2022-09-24 16:23:13:802 | Process 4 ] Algorithm Log: Received Coordinator message from 6.
